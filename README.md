@@ -1,3 +1,3 @@
-# Wakanda-for-Unciv
-Play as Marvel's greatest civilization in Unciv. Unlock the secrets of the Sacred Mound and conquer the world!
-What makes this mod special is that this nation's unique traits (of which it has many) are all up for the stealing. If you conquer the capital city and steal the Sacred Mound, you can seize all of its power for yourself!
+# Wakandamodmod-for-Unciv
+This is a mod of SpacedOutChicken's wakanda mod. This is just me messing about the settings and making the wakanda civ even more OP. 
+It was intended for personal use, but since I don't know how to incorporate it into unciv without github... 
