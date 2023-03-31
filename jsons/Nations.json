@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Wakanda",
+		"leaderName": "T'Challa",
+		"adjective": ["Wakandan"],
+		"startBias": ["Jungle"],
+        "preferredVictoryType": "Scientific",
+		"favoredReligion": "Orisha",
+        
+        "startIntroPart1": "10,000 years ago, Wakanda was home to a collection of primitive human tribes. It was during this time a massive meteorite made of a sound and energy absorbing mineral, which would later be known as vibranium crashed to Earth. One of the tribes, led by Bashenga, its mightiest warrior, decided to investigate, believing this to be a gift from the gods. Bashenga prayed to the Panther God to give him the strength to defeat these demons, becoming the first Black Panther and uniting the tribes to form the nation of Wakanda. His lineage would later rule the country for centuries. Now you, T'Challa, are the latest to sit upon his throne.",
+		"startIntroPart2": "For centuries Wakanda has remained in isolation. Now, they are considered the most technologically advanced nation of the planet. Can you uphold their mighty legacy, king T'Challa? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Wakanda forever!",
+		"attacked": "It is my responsibility to make sure our people are safe and that vibranium does not fall into the hands of a person like you.",
+		"defeated": "It is over for us. What happens now determines what happens to the rest of the world.",
+		"afterPeace": "Our weapons will not be used to wage war on the world. It is not our way to be judge, jury, and executioner for people who are not our own.",
+
+		"introduction": "Greetings from Wakanda. I am T'Challa, king of Africa's greatest people.",		
+		"neutralHello": "Molo unjani (Hello, how are you?)",
+		"hateHello": "What do YOU want?",		
+		"tradeRequest": "We all know the truth: more connects us than separates us. But in times of crisis the wise build bridges, while the foolish build barriers. We must find a way to look after one another, as if we were one single tribe.",
+
+		"outerColor": [10,17,10],
+		"innerColor": [145,88,228],
+		"uniqueName": "Secrets of the Sacred Mound",
+		"uniques": ["[All] units gain the [Wakanda Forever] promotion",
+			"Starts with [Mining]",
+			"Unlock more secrets by building upon the Sacred Mound"],
+		"cities": ["Birnin Zana","Birnin Kashin","Birnin S'Yan","Birnin Azzaria","Birnin Bashenga","Adowa","Birnin Djata","Birnin T'Chaka",
+			"Black Warrior Creek","Jabari Village","Birnin Mutata","Golden Volcano","Birnin Benhazin","Birnin Tsauni","N'Jadaka Village","Obodo Makeda"],
+		"spyNames": ["White Wolf", "Hunter", "Bucky Barnes", "Shuri", "Refaat", "Ahmadou", "Mulu Ken", "Heba", "Ayub", "Wendimu"]
+    }
+]

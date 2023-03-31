@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Wakanda Forever",
+		"uniques": ["Can move immediately once bought",
+			"[+50]% Strength <vs [Barbarian] units>",
+			"Uncapturable"]
+	},
+	{
+		"name": "Panther Eyes",
+		"uniques": ["Can see invisible [All] units"]
+	}
+]
